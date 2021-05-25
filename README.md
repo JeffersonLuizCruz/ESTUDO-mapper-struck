@@ -1,5 +1,4 @@
-	```
-  
+ ```
   <properties>
 		<java.version>11</java.version>
 		<!-- https://mvnrepository.com/artifact/org.mapstruct/mapstruct -->
@@ -7,7 +6,6 @@
 		<!-- https://mvnrepository.com/artifact/org.mapstruct/mapstruct -->
 	</properties>
   
-  ...
   
   		<!-- https://mvnrepository.com/artifact/org.mapstruct/mapstruct -->
 		<dependency>
@@ -43,4 +41,4 @@
 				</configuration>
 			</plugin>
 			<!-- https://mvnrepository.com/artifact/org.mapstruct/mapstruct -->
-      ```
+```
