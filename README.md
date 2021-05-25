@@ -44,3 +44,4 @@
 		</plugin>
 		<!-- https://mvnrepository.com/artifact/org.mapstruct/mapstruct -->
 ```
+Link para dependência do MapperStruct: https://mapstruct.org/documentation/installation/
